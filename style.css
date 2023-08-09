@@ -1,5 +1,5 @@
-@font-face { font-family: “SprinklesCupcakes”; 
-            src: url(“fonts/SprinklesCupcakes.otf”); 
+@font-face { font-family: 'SprinklesCupcakes'; 
+            src: url('fonts/SprinklesCupcakes.otf'); 
            }
 body {
   display: flex;
@@ -98,7 +98,7 @@ border-radius: 60px
 }
 .site-title{
   font-size: 20px;
-  font-family: "SprinklesCupcakes";
+  font-family: 'SprinklesCupcakes', cursive;
   font-weight: bold;
   color: #00FF00;
   text-shadow: 2px 2px 4px black;
