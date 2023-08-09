@@ -9,6 +9,13 @@ body {
   height: 100vh;
   background-color: #FFB6C1;
 }
+.flip-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #FFB6C1;
+}
 .nav-bar{
 background-color: black;
 display: flex; 
