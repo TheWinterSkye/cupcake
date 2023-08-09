@@ -17,7 +17,8 @@ left: 0;
 .nav-buttons{
 background-color: pink;
 justify-content: center;
-height: 100px;
+height: 30px;
+width: 30px;
 }
 .flip-card {
   background-color: transparent;
