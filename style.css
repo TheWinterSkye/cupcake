@@ -21,6 +21,13 @@ height: 40px;
 width: 60px;
 margin: 5px
 }
+.nav-image{
+display: flex;
+background-size: cover;
+height: 40;
+width: 40;
+border-radius: 5px
+}
 .flip-card {
   background-color: transparent;
   width: 300px;
