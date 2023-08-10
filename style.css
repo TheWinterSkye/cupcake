@@ -90,3 +90,11 @@ font-weight: bold;
 color: #FF69B4;
 text-shadow: 0.125em 0.125em 0.25em black; /* 2px / 16px = 0.125em, 4px / 16px = 0.25em */
 }
+.small-menu {
+
+color: #FFF;
+text-decoration: none;
+text-align: center;
+font-size: 0.5em;
+
+}
