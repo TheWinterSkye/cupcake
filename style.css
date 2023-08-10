@@ -76,7 +76,7 @@ margin: 5px
 .nav-image{
 display: flex;
 background-size: cover;
-margin: 2em;
+margin: 1em;
 height: 5em; /* 40px / 16px = 2.5em */
 width: 5em; /* 40px / 16px = 2.5em */
 border-radius: 3.75em;
