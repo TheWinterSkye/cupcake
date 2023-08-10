@@ -10,7 +10,7 @@ font-family: 'SprinklesCupcakes', cursive;
 
 ul {
 list-style: none;
-background: #FFB6C1;
+background: #612D08;
 }
 
 ul li{
@@ -33,14 +33,14 @@ display: block;
 
 ul li ul.dropdown {
 width: 100%;
-background: #FFB6C1;
+background: #612D08;
 position: absolute;
 z-index: 999;
 display: none;
 }
 
 ul li a:hover {
-background: #FFB6C1;
+background: #612D08;
 }
 
 ul li:hover ul.dropdown {
@@ -59,7 +59,6 @@ background-color: #FFB6C1;
 .nav-bar{
 background-color: #612D08;
 display: flex; 
-flex-direction: column;
 width: 100%;
 height: 140px;
 position: fixed; 
