@@ -59,6 +59,7 @@ background-color: #FFB6C1;
 .nav-bar{
 background-color: #612D08;
 display: flex; 
+flex-direction: column;
 width: 100%;
 height: 140px;
 position: fixed; 
