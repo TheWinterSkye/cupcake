@@ -37,9 +37,9 @@ ul li ul.dropdown {
 ul li a:hover {
         background: #FFB6C1;
         }
-ul li a:hover ul.dropdown {
-        display: block;
-        }
+ul li:hover ul.dropdown {
+    display: block;
+}
 
 body {
   display: flex;
