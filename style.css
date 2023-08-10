@@ -1,5 +1,5 @@
 @font-face { font-family: 'SprinklesCupcakes'; 
-            src: url('fonts/SprinklesCupcakes.otf'); 
+    src: url('fonts/SprinklesCupcakes.otf'); 
 }
 
 * {
@@ -75,8 +75,8 @@ margin: 5px
 .nav-image{
 display: flex;
 background-size: cover;
-height: 2.5em; /* 40px / 16px = 2.5em */
-width: 2.5em; /* 40px / 16px = 2.5em */
+height: 5em; /* 40px / 16px = 2.5em */
+width: 5em; /* 40px / 16px = 2.5em */
 border-radius: 3.75em;
 }
 
