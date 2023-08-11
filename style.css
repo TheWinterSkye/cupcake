@@ -95,6 +95,19 @@ text-shadow: 0.125em 0.125em 0.25em black; /* 2px / 16px = 0.125em, 4px / 16px =
 color: #FFF;
 text-decoration: none;
 text-align: center;
-font-size: 0.5em;
+font-size: 1em;
 
 }
+ul.dropdown li ul.info-box {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 200px;
+    background-color: #612D08;
+  }
+  
+  ul.dropdown li:hover ul.info-box {
+    display: block;
+  }
+  
