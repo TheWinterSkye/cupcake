@@ -10,7 +10,7 @@ font-family: 'SprinklesCupcakes', cursive;
 
 ul {
 list-style: none;
-background: #612D08;
+background: #382628;
 }
 
 ul li{
@@ -33,14 +33,17 @@ display: block;
 
 ul li ul.dropdown {
 width: 100%;
-background: #612D08;
+background: #382628;
 position: absolute;
 z-index: 999;
 display: none;
 }
 
 ul li a:hover {
-background: #612D08;
+background: #bd9095;
+border-radius: 3.75em;
+transition: background-color 1s ease;
+transition: border-radius 1s ease;
 }
 
 ul li:hover ul.dropdown {
@@ -57,7 +60,7 @@ background-color: #F78F9E;
 }
 
 .nav-bar{
-background-color: #612D08;
+background-color: #382628;
 align-items: center;
 text-align: center;
 justify-content: space-between;
